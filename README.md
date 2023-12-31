@@ -1,4 +1,4 @@
-# NAVARUS UMEWENI - WEB DEVELOPER PORTFOLIO
+# NAVARUS UMEWENI 
 
 Hello! I'm Navarus Umeweni, a passionate web developer with a background in repairing phones,
 
