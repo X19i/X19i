@@ -9,7 +9,7 @@ No projects available at the moment.
 | 5.1.x   |                    |
 | 5.0.x   |                    |
 | 4.0.x   |                    |
-| < 4.0   |                    |
+| < 3.0   |                    |
 
 ## Reporting a Vulnerability
 
